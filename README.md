@@ -64,5 +64,5 @@ Follow the instructions for pushing an existing repo from the command line to pu
 | User sees long names truncated using ellipses (...) in the list of iSchools |	5 |
 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | 10 |
 | Code correctly implements and uses a custom Component for displaying list items |	10 |
-| Total Points | 100 |
+| **Total Points** | **100** |
 | Demo video is missing	| -10 |
