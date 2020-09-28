@@ -25,7 +25,7 @@ Notes:
 * iSchoolData module
 * Shuffle modulePreview the document
 
-### Descriptionn
+### Description
 In this project you will create an app from scratch that displays totally accurate, up to the minute global rankings of Information Schools. Given that there is no established set of criteria or definitive ranking system for iSchools, we will create our own (admittedly biased) ranking system according to the following rules:
 
 The University of Michigan iSchool is always first.
