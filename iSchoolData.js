@@ -58,5 +58,3 @@ export function getISchools() {
     }    
     return iSchools;
 }
-
-console.log(getISchools());
