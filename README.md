@@ -26,19 +26,19 @@ To help you out, I have provided two JavaScript files containing functions that 
 3. When you are done, make a screencast video of your app in action and submit your video's URL to Canvas (this assignment). You will need to post your video somewhere on the web (you can use Loom, Google Drive, YouTube, etc.). 
 
 ### Grading
-| No. | Requirement | Points |
-| --- | --- | ------------- |
-| 1 | A ranked list of iSchools is displayed when the app runs | 75 |
-| 2 | A shuffled list of ranked iSchools when they press the refresh button |	75 |
-| 3 | The University of Michigan School of Information is always listed as the number one school and other schools are listed in random order	| 25 |
-| 4 | All list items, including the top-ranked item, scroll together when the list is scrolled | 20 |
-| 5 | An app header is displayed that looks similar to the one in the demo video | 25 |
-| 6 | An updated date and time is shown in the header every time the refresh button is pressed | 10 |
-| 7 | iSchools shown in the list look similar to the ones in the demo video, with or without truncation for long names |	25 |
-| 8 | Long names are truncated using ellipses (...) in the list of iSchools |	10 |
-| 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | 25 |
-| 10 | Code correctly implements and uses a custom Component for displaying each list item |	10 |
-|    | **Total Points** | **300** |
+| No. | Requirement | Type | Points |
+| --- | --- | --- | --- |
+| 1 | A ranked list of iSchools is displayed when the app runs | Behavior | 75 |
+| 2 | A shuffled list of ranked iSchools when they press the refresh button | Behavior |	75 |
+| 3 | The University of Michigan School of Information is always listed as the number one school and other schools are listed in random order	| Behavior | 25 |
+| 4 | All list items, including the top-ranked item, scroll together when the list is scrolled | Behavior | 20 |
+| 5 | An app header is displayed that looks similar to the one in the demo video | Behavior | 25 |
+| 6 | An updated date and time is shown in the header every time the refresh button is pressed | Behavior | 10 |
+| 7 | iSchools shown in the list look similar to the ones in the demo video, with or without truncation for long names | Behavior |	25 |
+| 8 | Long names are truncated using ellipses (...) in the list of iSchools | Behavior |	10 |
+| 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | Code | 25 |
+| 10 | Code correctly implements and uses a custom Component for displaying each list item | Code |	10 |
+|    | **Total Points** | |  **300** |
 
 *Note: there is no extra credit for projects. Sorry!*
 
