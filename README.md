@@ -12,7 +12,7 @@ To help you out, I have provided two JavaScript files containing functions that 
 4. Figure out how you will use the exported functions from `Shuffle.js` and `iSchoolData.js` in your app, and set up your imports accordingly.
 5. Write your app!
 
-Notes:
+### Notes:
 - Make sure that the top-ranked iSchool is displayed as part of the list that contains all of the other schools. It should scroll with the other schools, for example (see video).
 - The icon I used for the refresh button is the 'ios-refresh' icon from Ionicons. This is included with expo. To learn about using icons in Expo read the [Expo Icon Guide](https://docs.expo.io/guides/icons/). You can also use a different icon if you find one you like better.
 - You can tweak the styles and colors if you like, but make sure that all style-related requirements are met for full credit.
@@ -24,8 +24,6 @@ Notes:
 1. Keep pushing your code to GitHub as you work.
 2. Push your final version to GitHub when you are done. Your most recent commit will be used to determine when you turned the project in for the purposes of calculating a late penalty (if any).
 3. When you are done, make a screencast video of your app in action and submit your video's URL to Canvas (this assignment). You will need to post your video somewhere on the web (you can use Loom, Google Drive, YouTube, etc.). 
-
-
 
 ### Grading
 | No. | Requirement | Points |
@@ -42,5 +40,5 @@ Notes:
 | 10 | Code correctly implements and uses a custom Component for displaying each list item |	10 |
 |    | **Total Points** | **300** |
 
-
+*Note: there is no extra credit for projects. Sorry!*
 
