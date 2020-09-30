@@ -8,9 +8,10 @@ To help you out, I have provided two JavaScript files containing functions that 
 
 1. Accept the GitHub invitation to get your personal copy of the project repository (if you're reading this, you've already done step 1!)
 2. Clone the repo to your development machine.
-3. Change the `default export` in your App.js to export a class Component rather than a function Component.
-4. Figure out how you will use the exported functions from `Shuffle.js` and `iSchoolData.js` in your app, and set up your imports accordingly.
-5. Write your app!
+3. After cloning to your machine, run `yarn install` in the project directory to install all of the dependencies.
+4. Change the `default export` in your App.js to export a class Component rather than a function Component.
+5. Figure out how you will use the exported functions from `Shuffle.js` and `iSchoolData.js` in your app, and set up your imports accordingly. DO NOT change the contents of `Shuffle.js` or `iSchoolData.js`. You do not need to nor are you allowed to.
+6. Write your app!
 
 ### Notes:
 - Make sure that the top-ranked iSchool is displayed as part of the list that contains all of the other schools. It should scroll with the other schools, for example (see video).
@@ -36,7 +37,7 @@ To help you out, I have provided two JavaScript files containing functions that 
 | 6 | An updated date and time is shown in the header every time the refresh button is pressed | Behavior | 10 |
 | 7 | iSchools shown in the list look similar to the ones in the demo video, with or without truncation for long names | Behavior |	25 |
 | 8 | Long names are truncated using ellipses (...) in the list of iSchools | Behavior |	10 |
-| 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | Code | 25 |
+| 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules _without any modifications to `iSchoolData.js` or `Shuffle.js`_ | Code | 25 |
 | 10 | Code correctly implements and uses a custom Component for displaying each list item | Code |	10 |
 |    | **Total Points** | |  **300** |
 
