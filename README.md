@@ -25,17 +25,22 @@ Notes:
 2. Push your final version to GitHub when you are done. Your most recent commit will be used to determine when you turned the project in for the purposes of calculating a late penalty (if any).
 3. When you are done, make a screencast video of your app in action and submit your video's URL to Canvas (this assignment). You will need to post your video somewhere on the web (you can use Loom, Google Drive, YouTube, etc.). 
 
+
+
 ### Grading
-|   | Requirement | Points |
-| 1 | --- | ------------- |
-| 2 | A ranked list of iSchools is displayed when the app runs | 75 |
-| 3 | A shuffled list of ranked iSchools when they press the refresh button |	75 |
-| 4 | The University of Michigan School of Information is always listed as the number one school and other schools are listed in random order	| 25 |
-| 5 | All list items, including the top-ranked item, scroll together when the list is scrolled | 20 |
-| 6 | An app header is displayed that looks similar to the one in the demo video | 25 |
-| 7 | An updated date and time is shown in the header every time the refresh button is pressed | 10 |
-| 8 | iSchools shown in the list look similar to the ones in the demo video, with or without truncation for long names |	25 |
-| 9 | Long names are truncated using ellipses (...) in the list of iSchools |	10 |
-| 10 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | 25 |
-| 11 | Code correctly implements and uses a custom Component for displaying each list item |	10 |
-| | **Total Points** | **300** |
+| No. | Requirement | Points |
+| --- | --- | ------------- |
+| 1 | A ranked list of iSchools is displayed when the app runs | 75 |
+| 2 | A shuffled list of ranked iSchools when they press the refresh button |	75 |
+| 3 | The University of Michigan School of Information is always listed as the number one school and other schools are listed in random order	| 25 |
+| 4 | All list items, including the top-ranked item, scroll together when the list is scrolled | 20 |
+| 5 | An app header is displayed that looks similar to the one in the demo video | 25 |
+| 6 | An updated date and time is shown in the header every time the refresh button is pressed | 10 |
+| 7 | iSchools shown in the list look similar to the ones in the demo video, with or without truncation for long names |	25 |
+| 8 | Long names are truncated using ellipses (...) in the list of iSchools |	10 |
+| 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules | 25 |
+| 10 | Code correctly implements and uses a custom Component for displaying each list item |	10 |
+|    | **Total Points** | **300** |
+
+
+
