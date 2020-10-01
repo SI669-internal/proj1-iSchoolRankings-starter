@@ -2,7 +2,7 @@
 
 For this project you will build an app that shows totally accurate, up to the date global rankings for iSchools all over the world. Well, maybe not exactly. In fact what it will do is always show the University of Michigan School of Information in first place and all of the rest of the iSchools in random order from 2nd place on downward. So it might be a bit biased.
 
-See the demo video for how the app should look and behave when you are done.
+See the [walkthrough video](https://youtu.be/S3gx0fhFJQo) for how the app should look and behave when you are done.
 
 To help you out, I have provided two JavaScript files containing functions that you will need to `import` (using the JavaScript `import` statement) for use in your App.js. I have also created a default "blank" expo app for you to modify. Here are the steps you need to take to get set up to start working on the project:
 
