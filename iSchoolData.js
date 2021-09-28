@@ -40,7 +40,7 @@ const iSchoolNames = [
     'University of Texas at Austin: School of Information',
     'University of California, Los Angeles: Graduate School of Education and Information Studies',
     'University of Washington: The Information School',
-    'Wuhan University: School of Information Management,
+    'Wuhan University: School of Information Management',
     'Zhengzhou University: School of Information Management'
 ];
 
